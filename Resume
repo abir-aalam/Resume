@@ -1,1 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Your Name - Game Developer</title>
+</head>
+<body>
+	<h1>Your Name</h1>
+	<p>Your Address<br>
+	Your Phone Number<br>
+	Your Email Address</p>
+
+	<h2>Objective: Game Developer</h2>
+	<p>Highly skilled and experienced Game Developer with a passion for developing engaging and immersive video games. Proficient in various programming languages and game engines, including Unity and Unreal Engine. Dedicated to delivering high-quality products within tight deadlines.</p>
+
+	<h2>Skills:</h2>
+	<ul>
+		<li>Proficient in Unity and Unreal Engine</li>
+		<li>Strong knowledge of C++, C#, Java, and Python</li>
+		<li>Experience with 3D modeling and animation software, such as Maya and Blender</li>
+		<li>Excellent problem-solving skills</li>
+		<li>Strong communication and teamwork skills</li>
+		<li>Ability to work under tight deadlines</li>
+	</ul>
+
+	<h2>Experience:</h2>
+	<h3>Game Developer</h3>
+	<p><strong>Company Name</strong>, <em>City, State</em><br>
+	<em>Duration</em></p>
+	<ul>
+		<li>Collaborated with designers and artists to develop various video games using Unity and Unreal Engine</li>
+		<li>Developed game mechanics and implemented features such as AI, physics, and user interfaces</li>
+		<li>Created and optimized game assets, including 3D models, animations, and particle effects</li>
+		<li>Debugged and fixed issues related to gameplay, performance, and stability</li>
+		<li>Worked closely with the QA team to identify and resolve bugs and issues</li>
+		<li>Conducted code reviews and mentored junior developers</li>
+	</ul>
+
+	<h3>Game Programmer</h3>
+	<p><strong>Company Name</strong>, <em>City, State</em><br>
+	<em>Duration</em></p>
+	<ul>
+		<li>Implemented game mechanics and features using C++, C#, Java, and Python</li>
+		<li>Developed tools and plugins to optimize workflow and improve productivity</li>
+		<li>Worked with the art team to integrate 3D models and animations into the game engine</li>
+		<li>Collaborated with the design team to ensure that the game mechanics were engaging and fun</li>
+		<li>Conducted unit testing and resolved bugs and issues related to gameplay and performance</li>
+	</ul>
+
+	<h2>Education:</h2>
+	<p><em>Degree</em> in Computer Science<br>
+	<strong>University Name</strong>, <em>City, State</em><br>
+	<em>Graduation Date</em></p>
+</body>
+</html>
 
